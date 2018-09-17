@@ -1,0 +1,8 @@
+.vscode
+*.o
+*.a
+*.so
+.project
+.cproject
+.pydevproject
+.settings/
